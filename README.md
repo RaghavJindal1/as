@@ -1,7 +1,7 @@
-# 🌟 Project Name
+# 🌟 Demo Project
 
 ## 📌 Description
-A brief overview of the project and what it does.
+just basically trying to create a Readme.md file 
 
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
