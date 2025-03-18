@@ -2,8 +2,9 @@
 
 ## 📌 Description
 just basically trying to create a Readme.md file 
+<hr>
 ![Alt text](images/img1.jpg)
-
+<hr>
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
